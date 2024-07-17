@@ -1,2 +1,3 @@
-# dc32
-Defcon 32 (2024) - PUBLIC
+# Defcon 32
+
+Place for Defcon32 stuff
